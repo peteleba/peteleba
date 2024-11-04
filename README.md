@@ -6,6 +6,9 @@ I'm a **Robotics and AI Engineer** passionate about purposeful innovation. I spe
 - Python
 - C/C++
 - Arduino
+- JavaScript
+- PHP
+- CSS
 - WordPress
 - Robotics
 - AI & Machine Learning
