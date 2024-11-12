@@ -1,4 +1,5 @@
-# 👋 Hello, I’m Peter Okiokpa, a Robotics & AI Engineer and Software Developer from Nigeria with a deep-seated passion for creating impactful technology solutions. My expertise spans Robotics Engineering, AI, and Software Development with proficiency in Python and C++. With a solid foundation in electrical, electronics, and software engineering principles, I strive to design and implement scalable, efficient solutions that address real-world challenges.
+# 👋 Hello, I’m Peter Okiokpa, 
+A Robotics & AI Engineer and Software Developer from Nigeria with a deep-seated passion for creating impactful technology solutions. My expertise spans Robotics Engineering, AI, and Software Development with proficiency in Python and C++. With a solid foundation in electrical, electronics, and software engineering principles, I strive to design and implement scalable, efficient solutions that address real-world challenges.
 
 In addition to these core areas, I am also a Decentralized AI Engineer and AI Product Engineer in the Web3 space. I’m fascinated by the intersection of AI and blockchain and am committed to contributing to decentralized technology and innovative AI products that prioritize user empowerment and transparency.
 
