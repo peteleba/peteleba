@@ -19,6 +19,8 @@ I am Peter Okiokpa, a passionate advocate and Developer Relations (DevRel) profe
 - Deep Learning
 - 3D Modeling & Printing
 
+- [![roadmap.sh](https://roadmap.sh/card/tall/673e0b515434bf319acac100?variant=dark)](https://roadmap.sh)
+
 ## 📂 Projects
 - [House Price Prediction using Regression Models](https://github.com/peteleba/House-Price-Prediction-Project) - This project focuses on building a machine learning model to predict house prices using various features such as square footage, number of bedrooms, and location. It demonstrates the use of Linear Regression, data preprocessing, and evaluation using Python, Pandas, and Scikit-learn.
 - [Line Follower Robot](https://github.com/peteleba/Line-Follower-Robot) - Build a robot that autonomously follows a black line using infrared (IR) sensors.
