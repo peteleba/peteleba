@@ -1,5 +1,5 @@
 # 👋 Hello, I’m Peter Okiokpa, 
-I am Peter Okiokpa, a passionate advocate and Developer Relations (DevRel) professional committed to advancing Robotics and Artificial Intelligence (AI) Engineering across Nigeria and Africa through education, community engagement, and innovation. My mission is to make robotics and AI accessible to developers and enthusiasts by fostering vibrant tech communities, creating impactful content, and empowering the next generation of innovators. I am a Creative Content and Technical Writer, Developer Advocate, and Robotics & AI Engineer dedicated to empowering individuals and solving real-world challenges through education, innovation, and impactful content.
+I am Peter Okiokpa, a passionate advocate and Developer Relations (DevRel) professional committed to advancing Robotics and Artificial Intelligence (AI) Engineering across Nigeria and Africa through education, community engagement, and innovation. My mission is to make robotics and AI accessible to developers and enthusiasts by fostering vibrant tech communities, creating impactful content, and empowering the next generation of innovators. I also work as a Creative Content and Technical Writer, Developer Advocate, and Robotics & AI Engineer dedicated to empowering individuals and solving real-world challenges through education, innovation, and impactful content.
 
 
 
