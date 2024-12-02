@@ -31,7 +31,7 @@ I am Peter Okiokpa, a passionate advocate and Developer Relations (DevRel) profe
 ## 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/thepeteleba/)
 - [Twitter](https://x.com/thepeteleba)
-- [Website/Blog](https://thepeteleba.carrd.co/)
+- [Website/Blog](https://thepeteleba.com.ng/)
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
