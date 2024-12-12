@@ -1,6 +1,7 @@
 # 👋 Hello, I’m Peter Okiokpa, 
-I am Peter Okiokpa, a passionate developer advocate committed to advancing Robotics and Artificial Intelligence (AI) Engineering across Nigeria and Africa through education, community engagement, and innovation. My mission is to make robotics and AI accessible to developers and enthusiasts by fostering vibrant tech communities, creating impactful content, and empowering the next generation of innovators. I also work as a Creative Content and Technical Writer, Developer Advocate, and Robotics & AI Engineer dedicated to empowering individuals and solving real-world challenges through education, innovation, and impactful content.
+An AI Engineer, Technical Content Writer, and passionate advocate for Robotics and AI Engineering. I specialize in developing AI-driven solutions, creating clear and actionable technical content, and empowering the next generation of tech enthusiasts through education and advocacy.
 
+With hands-on experience in robotics and AI, I founded Roemai, a venture dedicated to the education, innovation, and advocacy of Robotics and AI Engineering across Nigeria and Africa. Through Roemai, I aim to bridge the technology skills gap, empower young minds, and foster socio-economic growth in the region. I also co-manage and tutor at Softmatic Academy, where we provide training in coding, robotics, and AI to equip future tech enthusiasts with the practical skills they need to thrive.
 
 
 
